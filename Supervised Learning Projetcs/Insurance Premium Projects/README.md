@@ -1,4 +1,4 @@
-# HR Analytics using EDA and Statistics
+# Insurance Premium Prediction using Regression Techniques
 
 ###
 
