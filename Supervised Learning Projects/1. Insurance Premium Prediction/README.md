@@ -17,7 +17,7 @@ Objective of this project is to find a way to estimate the value in the *charges
 ## Appendix
 
 * Exploratory Data Analysis
-* Models Used: 
+* Regression Models Used: 
     *  LinearRegression, 
     *  DecisionTreeRegressor, 
     *  RandomForestRegressor, 
