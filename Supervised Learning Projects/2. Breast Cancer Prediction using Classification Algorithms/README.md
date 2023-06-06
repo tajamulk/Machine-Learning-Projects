@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Using Classification Algorithms
+# Breast Cancer Prediction using Classification Algorithms
 
 ###
 
