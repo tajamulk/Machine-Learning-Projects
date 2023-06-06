@@ -12,7 +12,7 @@ Goal of this notebook is the application of several machine learning techniques 
 
 **Language:** python
 
-**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn.
+**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
 
 ## Appendix
 
