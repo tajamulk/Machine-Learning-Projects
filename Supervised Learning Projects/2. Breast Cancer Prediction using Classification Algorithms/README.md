@@ -10,7 +10,7 @@ Goal of this notebook is the application of several machine learning techniques 
 
 ## Tech Stack
 
-**Language:** Python.
+**Language:** python.
 
 **Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn.
 
