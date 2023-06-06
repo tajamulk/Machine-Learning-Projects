@@ -10,9 +10,9 @@ Objective of this project is to find a way to estimate the value in the *charges
 
 ## Tech Stack
 
-**Language:** Python
+**Language:** Python.
 
-**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
+**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn.
 
 ## Appendix
 
