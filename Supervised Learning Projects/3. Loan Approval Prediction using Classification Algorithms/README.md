@@ -12,7 +12,7 @@ Objective of this project is to find whether a customer is eligible for a loan b
 
 **Language:** Python
 
-**Libraries:** numpy, pandas, seaborn, matplotlib, scipy, sklearn
+**Libraries:** numpy, pandas, seaborn, matplotlib, scipy, sklearn.
 
 ## Appendix
 
