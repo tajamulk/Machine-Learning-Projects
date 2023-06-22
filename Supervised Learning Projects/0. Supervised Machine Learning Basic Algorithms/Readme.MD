@@ -1,4 +1,4 @@
-Here I keep a note of Basic code for Supervised Algorithms
+Here I keep a note of Basic code for Supervised Machine Learning Algorithms
 
 ## Copyright ©
 
