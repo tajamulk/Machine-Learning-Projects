@@ -25,12 +25,16 @@ Objective of this project is to find a way to estimate the value in the *charges
     *  KNN, 
     *  XGBoost
 
-## Support
+## Copyright ©
 
-For support, follow and text me on </a>
-    <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a>
+Project Completed by [Tajamul Khan](https://github.com/tajamulk2)
+* For More Projects like this. Check out my [GitHub](https://github.com/tajamulk2)
+* Let's connect over [Linked In](https://www.linkedin.com/in/tajamulk2/)
 
+## Support my Work
+
+If my work benefits you, you can support me here 👇 
+
+<a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=tajamulk2&button_colour=ffdd00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>  
 
 
