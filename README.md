@@ -1,7 +1,7 @@
 ## Copyright ©
 
 Content Created by [Tajamul Khan](https://github.com/tajamulk2)
-* Check out more Repositories [GitHub](https://github.com/tajamulk2)
+* Check out more [Repositories](https://github.com/tajamulk2)
 * Let's connect over [Linked In](https://www.linkedin.com/in/tajamulk2/)
 
 ## Support my Work
