@@ -1,4 +1,4 @@
-# Insurance Premium Prediction using Regression Techniques
+# Insurance Premium Prediction using Regression Algorithms
 
 ###
 
