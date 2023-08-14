@@ -1,4 +1,4 @@
-# Insurance Premium Prediction using Regression Algorithms
+# Housing Price Prediction using Regression Algorithms
 
 The objective of this project is to find a way to predict the value in the *Housing cost* column using the values in the other columns. I did it using historical data, then estimated charges for new customers, simply by asking for basic information like their age, sex, BMI, no. of children, smoking habits and region.
 
