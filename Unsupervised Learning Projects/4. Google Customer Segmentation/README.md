@@ -1,4 +1,4 @@
-# Google Customer Segmentation
+# Google Customer Segmentation 🥇
 
 At work, I harnessed the magic of unsupervised learning by utilizing RFM analysis and K-Means Clustering to segment customers based on shared characteristics.
 
