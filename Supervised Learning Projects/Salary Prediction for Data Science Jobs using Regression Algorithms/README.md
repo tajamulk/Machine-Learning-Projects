@@ -1,10 +1,8 @@
 # Salary Prediction for Data Science Jobs using Regression Algorithms
 
-<img align="right" height="250" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/556/0/0014-8656312704494382877.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230621%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230621T113450Z&X-Amz-Expires=87074&X-Amz-Signature=595ec7497edb9cd4753bbb2c119e6ba920671b8e198491d98d66344d9ffbc06b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Customer%2520Churn%2520Analysis.png&response-expires=Thu%2C%2022%20Jun%202023%2011%3A46%3A04%20GMT"/>
-
 ###
 
-Objective of this project is to find customers who are churning out to competitors. We have to analyse the data of our company and find insights and stop our customers from churning out to other telecom companies.
+Objective of this project is to predict Data Science Salaries. We have to analyse the historical data and based on that find insights and make predictions effectively.
 
 ## Tech Stack
 
@@ -17,8 +15,9 @@ Objective of this project is to find customers who are churning out to competito
 * Exploratory Data Analysis
 * Tree Plot
 * Models Used: 
-    * LogisticRegressor,
-    * DecisionTreeClassifier
+    * LinearRegressor,
+    * DecisionTreeRegressor,
+    * RandomForestRegressor,
 
 ## Copyright ©
 
