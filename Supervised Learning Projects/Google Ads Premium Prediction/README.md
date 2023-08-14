@@ -1,4 +1,4 @@
-# Google Ads Premium Prediction
+# Google Ads Premium Prediction 🥇
 
 At work, I employ historical features such as business offerings, products, average customer response, popularity, performance, budget, ranking, and geography. Using algorithms like linear regression, logistic regression, decision tree, random forest, and Boosting techniques, I predict Google Ads premium expenses for new customers.
 
