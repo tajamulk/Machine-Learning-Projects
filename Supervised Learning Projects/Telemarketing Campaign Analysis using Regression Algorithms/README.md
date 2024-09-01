@@ -1,4 +1,4 @@
-# Bank Telemarketing Campaign Analysis using Classification Algorithms
+# Telemarketing Campaign Analysis using Classification Algorithms
 
 ###
 
